@@ -1,0 +1,14 @@
+	(1)	(2)	(3)
+VARIABLES	lag_corr	lag_corr	lag_corr
+			
+emp_gr	0.148***		0.0889
+	(0.0312)		(0.0581)
+gdp_gr		0.104***	0.0556
+		(0.0277)	(0.0491)
+Constant	0.0650	0.00650	0.0135
+	(0.0443)	(0.0616)	(0.0671)
+			
+Observations	60	60	60
+R-squared	0.205	0.198	0.229
+Robust standard errors in parentheses			
+*** p<0.01, ** p<0.05, * p<0.1			
